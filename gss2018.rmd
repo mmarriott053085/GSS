@@ -49,10 +49,14 @@ The data provided a numerical variable which represents the difference of years 
 plot(EDUC~VOTE16,data=GSSdata)
 ```
 
+The box plot indicates that those who had a higher frequency of voting had a median of 15 years of education, while those who had a lower frequency of voting had a median of 13 years of education.
+
+
 
 #### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
 
 ### Inferential Results
 
