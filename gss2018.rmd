@@ -57,6 +57,12 @@ The box plot indicates that those who had a higher frequency of voting had a med
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(EDUC~VOTE16,data=GSSdata)
+```
+
+The numerical results seem to infer those that voted had a higher education level of 15.625 years and those who did not vote had an average education level of 13.680 years. 128 people voted and 50 did not which indicates that those with a higher education level have a higher frequency of voting.
+
 
 ### Inferential Results
 
