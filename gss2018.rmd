@@ -74,3 +74,8 @@ t.test(EDUC~VOTE16,data=GSSdata)
 
 The inferential results indicate a statistical difference between those who voted and those who did not vote.We can see the median education level for those in the group who voted is 15.625 and the median education level those in the group who did not vote is 13.680.
 
+### Discussion and Conclusion
+
+In conclusion, people with a higher education level of 15 years  have a higher tendency to vote, while those with a lower education level of 13 years tend to vote less frequently.
+
+
